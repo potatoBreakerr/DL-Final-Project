@@ -3,7 +3,7 @@ Source code for NYU Deep Learning Fall 2025 Final Project
 
 Saved example models at [google driver](https://drive.google.com/drive/folders/1Lr_mXebwgJcsOMWS11wtMq_I1cOyqnFy?usp=sharing)
 
-The training, validation, and testing script (all in one notebook: deeplabv3_resnet101_batch_8.ipynb)  is updated in the git repo as train_inference_script.ipynb 
+The training, validation, and testing script (all in one notebook)  is updated in the git repo as deeplabv3_resnet101_batch_8.ipynb
 We run the experiment in Google Colab, download the script and load in Colab GPU runtime
 
 Recommend to select A100 GPU with 40GB RAM runtime to support high batch size training. 
